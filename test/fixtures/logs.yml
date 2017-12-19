@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kizi: MyString
+  hitokoto: MyString
+
+two:
+  kizi: MyString
+  hitokoto: MyString
